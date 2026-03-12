@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://justlend-app.org/sitemap.xml
